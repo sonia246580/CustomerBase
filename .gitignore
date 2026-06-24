@@ -1,6 +1,7 @@
 .env
 token.json
 token.pickle
+credentials.json
 catalog.sqlite
 raw_cache/
 __pycache__/
